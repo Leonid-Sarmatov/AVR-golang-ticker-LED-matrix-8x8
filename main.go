@@ -91,7 +91,6 @@ func main() {
 		if counter == int8(len(array))-8 || counter == 0 {
 			direction = -direction
 		}
-		//time.Sleep(time.Millisecond * 1)
 	}
 }
 
